@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.9.1",
-  "versionCode": 10901,
-  "publishedAt": "2026-10-03T20:27:12.385Z",
+  "versionName": "1.9.2",
+  "versionCode": 10902,
+  "publishedAt": "2026-10-03T20:45:48.770Z",
   "notes": [
-    "Burraco: le mosse non valide ora vengono respinte con animazione di vibrazione sulle carte.",
-    "Su dispositivi compatibili viene aggiunto anche un breve feedback aptico.",
-    "Le carte selezionate restano selezionate dopo un errore, così puoi correggere subito la giocata.",
-    "I gruppi mostrano un messaggio più chiaro quando provi ad aggiungere una carta di valore incompatibile."
+    "Scopa e Scopone: le prese non valide ora ricevono lo stesso feedback visivo e aptico del Burraco.",
+    "Una carta del tavolo incompatibile viene rifiutata subito con shake e messaggio esplicativo.",
+    "Le combinazioni di presa errate non vengono eseguite e la selezione resta disponibile per correggere la mossa.",
+    "Il feedback uniforme copre ora tutti i giochi di carte DuoPuzzle con mosse vincolate, incluse le modalità online."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.9.1/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.9.2/DuoPuzzle-latest.apk"
 }
