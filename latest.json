@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.9.2",
-  "versionCode": 10902,
-  "publishedAt": "2026-10-03T20:45:48.770Z",
+  "versionName": "1.10.0",
+  "versionCode": 11000,
+  "publishedAt": "2026-10-03T22:21:46.960Z",
   "notes": [
-    "Scopa e Scopone: le prese non valide ora ricevono lo stesso feedback visivo e aptico del Burraco.",
-    "Una carta del tavolo incompatibile viene rifiutata subito con shake e messaggio esplicativo.",
-    "Le combinazioni di presa errate non vengono eseguite e la selezione resta disponibile per correggere la mossa.",
-    "Il feedback uniforme copre ora tutti i giochi di carte DuoPuzzle con mosse vincolate, incluse le modalità online."
+    "Nuovo centro Amici DuoPuzzle con ricerca per username e richieste di amicizia.",
+    "Lista amici con stato Online/Offline e ultimo accesso disponibile.",
+    "Sfide dirette a Scopa o Burraco senza dover copiare codici stanza.",
+    "Se DuoPuzzle è aperto, la sfida compare con Accetta/Rifiuta e Accetta collega direttamente alla stanza."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.9.2/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.10.0/DuoPuzzle-latest.apk"
 }
