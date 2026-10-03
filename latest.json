@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.9.0",
-  "versionCode": 10900,
-  "publishedAt": "2026-10-03T20:05:41.177Z",
+  "versionName": "1.9.1",
+  "versionCode": 10901,
+  "publishedAt": "2026-10-03T20:27:12.385Z",
   "notes": [
-    "Aggiornamenti Android rilevati automaticamente all'apertura dell'app.",
-    "Pulsante Aggiorna con download della nuova APK firmata.",
-    "Distribuzione predisposta tramite repository pubblico DuoPuzzle-releases."
+    "Burraco: le mosse non valide ora vengono respinte con animazione di vibrazione sulle carte.",
+    "Su dispositivi compatibili viene aggiunto anche un breve feedback aptico.",
+    "Le carte selezionate restano selezionate dopo un errore, così puoi correggere subito la giocata.",
+    "I gruppi mostrano un messaggio più chiaro quando provi ad aggiungere una carta di valore incompatibile."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.9.0/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.9.1/DuoPuzzle-latest.apk"
 }
