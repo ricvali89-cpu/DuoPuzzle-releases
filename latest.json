@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "versionName": "1.9.0",
+  "versionCode": 10900,
+  "publishedAt": "2026-10-03T20:05:41.177Z",
+  "notes": [
+    "Aggiornamenti Android rilevati automaticamente all'apertura dell'app.",
+    "Pulsante Aggiorna con download della nuova APK firmata.",
+    "Distribuzione predisposta tramite repository pubblico DuoPuzzle-releases."
+  ],
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.9.0/DuoPuzzle-latest.apk"
+}
