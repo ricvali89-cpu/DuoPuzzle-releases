@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.3",
-  "versionCode": 11103,
-  "publishedAt": "2026-10-04T12:44:50.704Z",
+  "versionName": "1.11.4",
+  "versionCode": 11104,
+  "publishedAt": "2026-10-04T13:19:17.232Z",
   "notes": [
-    "Versione corrente mostrata in fondo alla Home, derivata automaticamente da package.json.",
-    "Burraco: tavolo compatto in una schermata, mano e azioni sempre visibili.",
-    "Carte calate con strati grafici isolati e indici leggibili.",
-    "Trascinamento tra le due file e pulsanti di spostamento su/giù.",
-    "Monte scarti consultabile in una finestra senza spostare il tavolo."
+    "Burraco: mano su una fila adattiva, ordinata per seme e valore crescente.",
+    "Carta pescata indicata accanto alla mano.",
+    "Jolly e pinelle collocati nel valore rappresentato e sostituiti nella stessa scala.",
+    "Trascina una carta direttamente sulla tua combinazione per legarla.",
+    "Scale e gruppi interamente visibili, senza pulsante Aggiungi né scorrimento del tavolo."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.3/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.4/DuoPuzzle-latest.apk"
 }
