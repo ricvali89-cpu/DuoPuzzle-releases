@@ -1,12 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.10",
-  "versionCode": 11110,
-  "publishedAt": "2026-10-04T16:57:44.498Z",
+  "versionName": "1.11.11",
+  "versionCode": 11111,
+  "publishedAt": "2026-10-04T17:17:49.551Z",
   "notes": [
-    "Burraco: pile verticali ad altezza naturale, con nuovi gruppi nello spazio sotto le pile corte.",
-    "CPU e giocatore hanno uguale spazio; ultima carta intera e dettaglio ingrandito.",
-    "Scopa e Scopone: mano e azioni nella schermata, bersagli di tocco delle carte corretti."
+    "Scopone: compagno di fronte e avversari ai lati del tavolo, con conteggio e carte coperte.",
+    "Disposizione corretta anche nella variante a 9 carte; mano e pulsante di gioco restano nella schermata."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.10/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.11/DuoPuzzle-latest.apk"
 }
