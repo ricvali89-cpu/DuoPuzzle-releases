@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.16",
-  "versionCode": 11116,
-  "publishedAt": "2026-10-04T20:57:25.242Z",
+  "versionName": "1.11.17",
+  "versionCode": 11117,
+  "publishedAt": "2026-10-04T21:29:06.523Z",
   "notes": [
-    "Nuovo DuoColor contro CPU: 2, 3 o 4 giocatori, tutti contro tutti.",
-    "Classico, Accumulo dello stesso tipo e 7–0 con scambi di mano.",
-    "Tavolo dedicato, scelta del colore, cronologia, turni scanditi e banner.",
-    "Partita singola, serie 1–10 o obiettivo 500 punti; mazziere a rotazione e salvataggio locale."
+    "Nuovo Forza 4 contro CPU: quattro difficoltà, griglia originale e primo turno sorteggiato.",
+    "Pedine animate, cronologia, ripresa locale e banner di vittoria, sconfitta o pareggio.",
+    "DuoColor: rimosso Tocca a te soltanto nella sfida singola a due giocatori.",
+    "Battaglia navale rimandata al prossimo aggiornamento: un gioco alla volta."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.16/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.17/DuoPuzzle-latest.apk"
 }
