@@ -1,14 +1,12 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.4",
-  "versionCode": 11104,
-  "publishedAt": "2026-10-04T13:19:17.232Z",
+  "versionName": "1.11.5",
+  "versionCode": 11105,
+  "publishedAt": "2026-10-04T14:45:05.955Z",
   "notes": [
-    "Burraco: mano su una fila adattiva, ordinata per seme e valore crescente.",
-    "Carta pescata indicata accanto alla mano.",
-    "Jolly e pinelle collocati nel valore rappresentato e sostituiti nella stessa scala.",
-    "Trascina una carta direttamente sulla tua combinazione per legarla.",
-    "Scale e gruppi interamente visibili, senza pulsante Aggiungi né scorrimento del tavolo."
+    "Burraco: ripristinate carte calate verticali con semi e figure.",
+    "Sovrapposizione adattata allo spazio del tavolo, senza trasformare le carte in strisce.",
+    "Mantenuti mano singola ordinata, carta pescata e trascinamento sulle combinazioni."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.4/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.5/DuoPuzzle-latest.apk"
 }
