@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.10.0",
-  "versionCode": 11000,
-  "publishedAt": "2026-10-03T22:21:46.960Z",
+  "versionName": "1.10.1",
+  "versionCode": 11001,
+  "publishedAt": "2026-10-04T07:48:39.687Z",
   "notes": [
-    "Nuovo centro Amici DuoPuzzle con ricerca per username e richieste di amicizia.",
-    "Lista amici con stato Online/Offline e ultimo accesso disponibile.",
-    "Sfide dirette a Scopa o Burraco senza dover copiare codici stanza.",
-    "Se DuoPuzzle è aperto, la sfida compare con Accetta/Rifiuta e Accetta collega direttamente alla stanza."
+    "Scopa: scegli una carta della mano e il tavolo evidenzia subito tutte le carte che possono far parte di una presa valida.",
+    "Se esiste una sola presa, viene mostrata con evidenza più forte; se ce ne sono più di una, vengono elencate come combinazioni selezionabili.",
+    "In modalità Facile la guida è più esplicita e indica anche quando la carta non può prendere nulla.",
+    "La stessa guida è disponibile anche in Scopone e nella Scopa online."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.10.0/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.10.1/DuoPuzzle-latest.apk"
 }
