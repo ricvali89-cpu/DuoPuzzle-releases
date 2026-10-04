@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.11",
-  "versionCode": 11111,
-  "publishedAt": "2026-10-04T17:17:49.551Z",
+  "versionName": "1.11.12",
+  "versionCode": 11112,
+  "publishedAt": "2026-10-04T17:42:23.793Z",
   "notes": [
-    "Scopone: compagno di fronte e avversari ai lati del tavolo, con conteggio e carte coperte.",
-    "Disposizione corretta anche nella variante a 9 carte; mano e pulsante di gioco restano nella schermata."
+    "Burraco a coppie: compagno di fronte e avversari ai lati del tavolo.",
+    "Un solo dorso e conteggio per ogni mano CPU, pozzetto noi/loro in alto.",
+    "Tavolo centrale con combinazioni delle due coppie, mano e comandi fermi."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.11/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.12/DuoPuzzle-latest.apk"
 }
