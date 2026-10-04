@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.10.2",
-  "versionCode": 11002,
-  "publishedAt": "2026-10-04T08:24:03.713Z",
+  "versionName": "1.11.0",
+  "versionCode": 11100,
+  "publishedAt": "2026-10-04T09:56:39.615Z",
   "notes": [
-    "Scopa e Scopone: le prese possibili ora risaltano molto di più rispetto alle altre carte del tavolo.",
-    "In modalità Facile le carte non utilizzabili vengono attenuate, mentre quelle valide hanno bordo e bagliore più forti.",
-    "Se esiste una sola presa possibile viene evidenziata in modo ancora più netto; con più prese restano visibili le combinazioni selezionabili.",
-    "La maggiore leggibilità è applicata anche alla Scopa online senza modificare le regole di gioco."
+    "Scopone: scelta fra 10 carte Scientifico e variante a 9 carte con 4 carte iniziali, turno iniziale a rotazione e tavolo 2v2 disposto correttamente.",
+    "Scopa e Scopone: cinque stili di mazzo, comprese due varianti internazionali J/Q/K, mano più leggibile e ultima carta giocata sempre evidente.",
+    "Burraco: mano grande ma sovrapposta e riordinabile, combinazioni più strette, pozzetti visibili e tavolo più chiaro.",
+    "Burraco: il monte scarti può essere ispezionato carta per carta prima di raccoglierlo; le CPU giocano più lentamente e indicano chiaramente lo scarto."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.10.2/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.0/DuoPuzzle-latest.apk"
 }
