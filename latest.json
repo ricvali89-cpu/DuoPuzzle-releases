@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.13",
-  "versionCode": 11113,
-  "publishedAt": "2026-10-04T19:02:43.682Z",
+  "versionName": "1.11.14",
+  "versionCode": 11114,
+  "publishedAt": "2026-10-04T19:50:28.469Z",
   "notes": [
-    "Burraco: combinazioni leggermente più grandi grazie a spazi interni ridotti.",
-    "Burraco pulito indicato con ★, sporco con ☆ accanto al conteggio, senza righe aggiuntive.",
-    "Posti del tavolo, mano e comandi conservati."
+    "Configurazione carte a passi: tavolo, difficoltà, carte e durata.",
+    "CPU: singola smazzata, serie da 1 a 10 o obiettivo di punti con totali salvati.",
+    "Burraco CPU: cronologia di pesca, raccolta, calata, allungamento, pozzetto e scarto.",
+    "Primo giocatore casuale e mazziere a rotazione; corretta la ridistribuzione Scopa."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.13/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.14/DuoPuzzle-latest.apk"
 }
