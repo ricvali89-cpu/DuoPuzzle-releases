@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.17",
-  "versionCode": 11117,
-  "publishedAt": "2026-10-04T21:29:06.523Z",
+  "versionName": "1.11.18",
+  "versionCode": 11118,
+  "publishedAt": "2026-10-04T21:47:50.690Z",
   "notes": [
-    "Nuovo Forza 4 contro CPU: quattro difficoltà, griglia originale e primo turno sorteggiato.",
-    "Pedine animate, cronologia, ripresa locale e banner di vittoria, sconfitta o pareggio.",
-    "DuoColor: rimosso Tocca a te soltanto nella sfida singola a due giocatori.",
-    "Battaglia navale rimandata al prossimo aggiornamento: un gioco alla volta."
+    "Home ridisegnata come hub compatto e scalabile: Puzzle, Giochi di carte e Da tavolo.",
+    "Riquadro Continua a giocare/Giocato di recente con priorità alle stanze online attive e memoria locale dell’ultimo gioco.",
+    "Card gioco più compatte e visive, accesso Online separato, Sfida del giorno e riepilogo giocatore alleggeriti.",
+    "Versione app sempre visibile nel footer e nessuna modifica alle regole o ai salvataggi dei giochi."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.17/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.18/DuoPuzzle-latest.apk"
 }
