@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.2",
-  "versionCode": 11102,
-  "publishedAt": "2026-10-04T11:50:13.855Z",
+  "versionName": "1.11.3",
+  "versionCode": 11103,
+  "publishedAt": "2026-10-04T12:44:50.704Z",
   "notes": [
-    "Burraco: tieni premuta una carta e trascinala lateralmente per riordinare la mano; ordine locale persistente.",
-    "Spaziatura adattiva alla larghezza disponibile e due file per mani numerose, con indici sempre visibili.",
-    "Selezione sollevata verticalmente senza ingrandimento né copertura delle carte vicine.",
-    "Scale e gruppi calati in colonne verticali, con valore e seme leggibili.",
-    "Stessa mano Burraco nelle modalità CPU singola, a coppie e online."
+    "Versione corrente mostrata in fondo alla Home, derivata automaticamente da package.json.",
+    "Burraco: tavolo compatto in una schermata, mano e azioni sempre visibili.",
+    "Carte calate con strati grafici isolati e indici leggibili.",
+    "Trascinamento tra le due file e pulsanti di spostamento su/giù.",
+    "Monte scarti consultabile in una finestra senza spostare il tavolo."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.2/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.3/DuoPuzzle-latest.apk"
 }
