@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.7",
-  "versionCode": 11107,
-  "publishedAt": "2026-10-04T15:41:58.532Z",
+  "versionName": "1.11.10",
+  "versionCode": 11110,
+  "publishedAt": "2026-10-04T16:57:44.498Z",
   "notes": [
-    "Burraco: scegli il valore rappresentato da pinella o jolly quando ci sono più posizioni valide.",
-    "Anteprime della scala prima della conferma, anche trascinando una matta su una combinazione.",
-    "Scelta salvata e validata in 1v1, coppie e online; posizioni obbligate automatiche."
+    "Burraco: pile verticali ad altezza naturale, con nuovi gruppi nello spazio sotto le pile corte.",
+    "CPU e giocatore hanno uguale spazio; ultima carta intera e dettaglio ingrandito.",
+    "Scopa e Scopone: mano e azioni nella schermata, bersagli di tocco delle carte corretti."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.7/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.10/DuoPuzzle-latest.apk"
 }
