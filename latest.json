@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.1",
-  "versionCode": 11101,
-  "publishedAt": "2026-10-04T10:55:09.037Z",
+  "versionName": "1.11.2",
+  "versionCode": 11102,
+  "publishedAt": "2026-10-04T11:50:13.855Z",
   "notes": [
-    "Scopa e Scopone: indici e semi più grandi e contrastati in tutti i cinque mazzi, con valore numerico e nome del seme.",
-    "Ultima giocata: carta statica ingrandita, valore e seme espliciti, senza effetti di bagliore.",
-    "Scope live: contatori individuali, totali di coppia e autore dell’ultima scopa registrata nella smazzata.",
-    "CPU Scopa/Scopone e Burraco ulteriormente rallentate; pannelli informativi stabili senza scroll automatico.",
-    "Burraco: ispezione scarti con carte grandi, etichette valore/seme e ultima carta distinta."
+    "Burraco: tieni premuta una carta e trascinala lateralmente per riordinare la mano; ordine locale persistente.",
+    "Spaziatura adattiva alla larghezza disponibile e due file per mani numerose, con indici sempre visibili.",
+    "Selezione sollevata verticalmente senza ingrandimento né copertura delle carte vicine.",
+    "Scale e gruppi calati in colonne verticali, con valore e seme leggibili.",
+    "Stessa mano Burraco nelle modalità CPU singola, a coppie e online."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.1/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.2/DuoPuzzle-latest.apk"
 }
