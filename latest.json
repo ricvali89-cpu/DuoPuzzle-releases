@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.6",
-  "versionCode": 11106,
-  "publishedAt": "2026-10-04T15:07:53.153Z",
+  "versionName": "1.11.7",
+  "versionCode": 11107,
+  "publishedAt": "2026-10-04T15:41:58.532Z",
   "notes": [
-    "Burraco: pesca, calate, legature e scarto CPU visibili una mossa alla volta, con 3 secondi tra le giocate.",
-    "Banner Tocca a te al passaggio del turno, prima di abilitare la mano.",
-    "Banner Vittoria, Sconfitta e Pareggio nelle modalità CPU di Burraco, Scopa e Scopone."
+    "Burraco: scegli il valore rappresentato da pinella o jolly quando ci sono più posizioni valide.",
+    "Anteprime della scala prima della conferma, anche trascinando una matta su una combinazione.",
+    "Scelta salvata e validata in 1v1, coppie e online; posizioni obbligate automatiche."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.6/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.7/DuoPuzzle-latest.apk"
 }
