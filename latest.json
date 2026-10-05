@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.18",
-  "versionCode": 11118,
-  "publishedAt": "2026-10-04T21:47:50.690Z",
+  "versionName": "1.11.19",
+  "versionCode": 11119,
+  "publishedAt": "2026-10-05T05:56:16.751Z",
   "notes": [
-    "Home ridisegnata come hub compatto e scalabile: Puzzle, Giochi di carte e Da tavolo.",
-    "Riquadro Continua a giocare/Giocato di recente con priorità alle stanze online attive e memoria locale dell’ultimo gioco.",
-    "Card gioco più compatte e visive, accesso Online separato, Sfida del giorno e riepilogo giocatore alleggeriti.",
-    "Versione app sempre visibile nel footer e nessuna modifica alle regole o ai salvataggi dei giochi."
+    "Sei vignette definitive nella Home: Sudoku, Cruciverba, Scopa/Scopone, Burraco, DuoColor e Forza 4.",
+    "Nuova identità cartoon: copertine, fondi caldi, Continua con artwork, Online dedicato e Daily compatta.",
+    "Hub e setup principali armonizzati con pannelli, selettori e pulsanti condivisi.",
+    "Regole, CPU, tavoli, salvataggi, account e multiplayer conservati."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.18/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.19/DuoPuzzle-latest.apk"
 }
