@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.20",
-  "versionCode": 11120,
-  "publishedAt": "2026-10-05T06:21:52.454Z",
+  "versionName": "1.11.21",
+  "versionCode": 11121,
+  "publishedAt": "2026-10-05T15:29:09.654Z",
   "notes": [
-    "Titolo DuoColor (UNO) nella Home, in Continua a giocare, nell'hub e nell'intestazione del gioco.",
-    "DuoColor resta un progetto originale DuoPuzzle, non ufficiale né affiliato a Mattel.",
-    "Nessuna modifica a regole, CPU, carte, punteggi o salvataggi."
+    "Nuovo DuoFlotta piratesco: Rapida 8×8, Completa 10×10 e Isole e Scogli 10×10 contro CPU.",
+    "DuoFlotta online 1 contro 1 in tutte e tre le modalità, con flotte private, inviti, rientro e rivincita.",
+    "Mini esplosioni sui colpi, onda sull'acqua e navi rivelate quando affondate.",
+    "Home Online illustrata e tabellone navale più ampio."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.20/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.21/DuoPuzzle-latest.apk"
 }
