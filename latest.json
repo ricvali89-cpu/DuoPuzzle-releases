@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.21",
-  "versionCode": 11121,
-  "publishedAt": "2026-10-05T15:29:09.654Z",
+  "versionName": "1.11.22",
+  "versionCode": 11122,
+  "publishedAt": "2026-10-06T08:18:00.937Z",
   "notes": [
-    "Nuovo DuoFlotta piratesco: Rapida 8×8, Completa 10×10 e Isole e Scogli 10×10 contro CPU.",
-    "DuoFlotta online 1 contro 1 in tutte e tre le modalità, con flotte private, inviti, rientro e rivincita.",
-    "Mini esplosioni sui colpi, onda sull'acqua e navi rivelate quando affondate.",
-    "Home Online illustrata e tabellone navale più ampio."
+    "Nuovo DuoIdentikit offline contro CPU: modalità Persone e Animali, 48 soggetti per modalità e 24 tessere bilanciate per partita.",
+    "DuoIdentikit ottimizzato per smartphone in orizzontale: eliminazione manuale delle tessere, domande 3+3, contatore Rimaste e livelli Normale, Difficile ed Esperto.",
+    "DuoColor online 1 contro 1 con Classico, Accumulo e 7–0, contestazione del +4 e mano senza paginazione.",
+    "Rifiniture a Burraco online e DuoFlotta: finale più leggibile, indicatori burraco coerenti, tempi/feedback e piazzamento navale migliorati."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.21/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.22/DuoPuzzle-latest.apk"
 }
