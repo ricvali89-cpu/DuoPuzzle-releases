@@ -1,13 +1,15 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.22",
-  "versionCode": 11122,
-  "publishedAt": "2026-10-06T08:18:00.937Z",
+  "versionName": "1.11.23",
+  "versionCode": 11123,
+  "publishedAt": "2026-10-07T23:31:32.390Z",
   "notes": [
-    "Nuovo DuoIdentikit offline contro CPU: modalità Persone e Animali, 48 soggetti per modalità e 24 tessere bilanciate per partita.",
-    "DuoIdentikit ottimizzato per smartphone in orizzontale: eliminazione manuale delle tessere, domande 3+3, contatore Rimaste e livelli Normale, Difficile ed Esperto.",
-    "DuoColor online 1 contro 1 con Classico, Accumulo e 7–0, contestazione del +4 e mano senza paginazione.",
-    "Rifiniture a Burraco online e DuoFlotta: finale più leggibile, indicatori burraco coerenti, tempi/feedback e piazzamento navale migliorati."
+    "Nuova identità DuoPuzzle: brand art illustrata approvata nello splash di 3 secondi, nella Home e nel profilo.",
+    "DuoFlotta: il giallo compare solo sulla casella selezionata, non sulle celle ancora da colpire.",
+    "DuoColor: carte ingrandite e mano orizzontale scorrevole su smartphone quando le carte aumentano.",
+    "Cruciverba: 3.786 definizioni offline filtrate, indizi più specifici, categorie curate e difficoltà ricalibrate.",
+    "Cruciverba: nuovo comando Mi arrendo con soluzioni rivelate e pulsanti Riprova ed Esci; nessun record o premio dopo la resa.",
+    "Correzioni e controlli di qualità per i giochi e per la distribuzione Web/Android. DuoParole rimane in sviluppo e non è ancora nella Home."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.22/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.23/DuoPuzzle-latest.apk"
 }
