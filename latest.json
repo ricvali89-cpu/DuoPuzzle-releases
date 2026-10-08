@@ -1,15 +1,14 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.23",
-  "versionCode": 11123,
-  "publishedAt": "2026-10-07T23:31:32.390Z",
+  "versionName": "1.11.24",
+  "versionCode": 11124,
+  "publishedAt": "2026-10-08T11:08:15.688Z",
   "notes": [
-    "Nuova identità DuoPuzzle: brand art illustrata approvata nello splash di 3 secondi, nella Home e nel profilo.",
-    "DuoFlotta: il giallo compare solo sulla casella selezionata, non sulle celle ancora da colpire.",
-    "DuoColor: carte ingrandite e mano orizzontale scorrevole su smartphone quando le carte aumentano.",
-    "Cruciverba: 3.786 definizioni offline filtrate, indizi più specifici, categorie curate e difficoltà ricalibrate.",
-    "Cruciverba: nuovo comando Mi arrendo con soluzioni rivelate e pulsanti Riprova ed Esci; nessun record o premio dopo la resa.",
-    "Correzioni e controlli di qualità per i giochi e per la distribuzione Web/Android. DuoParole rimane in sviluppo e non è ancora nella Home."
+    "Scopone: riepilogo immediato e leggibile dei punti per squadra (Carte, Denari, Settebello, Primiera, Scope), con scope dei singoli giocatori, Riprova ed Esci.",
+    "Scopone: nelle serie su più smazzate, la schermata mostra anche punti della mano e totali, con Prossima smazzata ed Esci.",
+    "Nuovo gioco DuoParole nella Home, offline contro CPU: tabellone Mini 11×11, 7 tessere, 3 livelli, parole italiane offline e punteggio in tempo reale.",
+    "DuoParole: trascinamento touch, incroci e bonus, animazione parole, salvataggio e ripresa; protezione dalle sovrascritture e riprova turno CPU.",
+    "Preservati i giochi esistenti, salvataggi, account e multiplayer. DuoParole online rimane disattivato in attesa di implementazione e collaudo."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.23/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.24/DuoPuzzle-latest.apk"
 }
