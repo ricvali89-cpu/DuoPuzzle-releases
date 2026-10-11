@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "versionName": "1.11.24",
-  "versionCode": 11124,
-  "publishedAt": "2026-10-08T11:08:15.688Z",
+  "versionName": "1.11.25",
+  "versionCode": 11125,
+  "publishedAt": "2026-10-11T18:46:50.181Z",
   "notes": [
-    "Scopone: riepilogo immediato e leggibile dei punti per squadra (Carte, Denari, Settebello, Primiera, Scope), con scope dei singoli giocatori, Riprova ed Esci.",
-    "Scopone: nelle serie su più smazzate, la schermata mostra anche punti della mano e totali, con Prossima smazzata ed Esci.",
-    "Nuovo gioco DuoParole nella Home, offline contro CPU: tabellone Mini 11×11, 7 tessere, 3 livelli, parole italiane offline e punteggio in tempo reale.",
-    "DuoParole: trascinamento touch, incroci e bonus, animazione parole, salvataggio e ripresa; protezione dalle sovrascritture e riprova turno CPU.",
-    "Preservati i giochi esistenti, salvataggi, account e multiplayer. DuoParole online rimane disattivato in attesa di implementazione e collaudo."
+    "Forza 4 online 1 contro 1: stanze private, sfide agli amici, turni sincronizzati, vittorie, pareggi, riconnessione e rivincita.",
+    "DuoIdentikit online 1 contro 1: Persone e Animali, stanze, domande, risposte, tentativi, segreti privati verificabili, disconnessione e rivincita.",
+    "Corretti gli inviti tra amici per DuoFlotta e DuoColor: ogni sfida apre la stanza del gioco corretto.",
+    "Nuova copertina cartoon originale di DuoParole nella Home e nel menu del gioco.",
+    "DuoParole online e modalità Scopone/Burraco 2 contro 2 non ancora disponibili; salvataggi, giochi e account esistenti preservati."
   ],
-  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.24/DuoPuzzle-latest.apk"
+  "downloadUrl": "https://github.com/ricvali89-cpu/DuoPuzzle-releases/releases/download/v1.11.25/DuoPuzzle-latest.apk"
 }
